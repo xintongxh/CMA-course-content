@@ -1,5 +1,7 @@
 # W2D3 - Future Climate- I P C C I I& I I I Socio- Economic Basis
 
+## use this link for the interactive tutorial 3: https://margo.plutojl.org/W2D3_Tutorial3.html/
+
 ## Instructor notebooks
 
 |   | Run | Run | View |
